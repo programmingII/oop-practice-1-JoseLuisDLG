@@ -1,5 +1,5 @@
 //Jose Luis De La Cruz Gonzalez 25-02-2019 02:27 PM
-import java.util.*;//nos permite importa alguna clase del paquete que necesitamos para la linea de codigo
+import java.util.*;//nos permite importar alguna clase del paquete que necesitamos para la linea de codigo
  public class Ejercicio59_Minuscula{
      public static void main(String[] args){	
      Scanner in = new Scanner(System.in);//Nos crea el objeto in para almacenar datos
